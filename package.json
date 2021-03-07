@@ -3,11 +3,7 @@
   "version": "1.0.0",
   "description": "Homework 17",
   "main": "server.js",
-  "dependencies": {
-    "express": "^4.17.1",
-    "mongoose": "^5.11.18",
-    "morgan": "^1.10.0"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
